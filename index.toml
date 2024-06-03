@@ -1,5 +1,369 @@
-[[articles.meta]]
-slug = "typegraphy"
+[[articles]]
+title = "トランプのカードはEntityかValueObjectか"
+slug = "entity-vs-value-object"
+tags = ["Design"]
+published = true
+published_at = "2024-5-20"
+updated_at = "2024-5-20- 2:15"
+cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
+
+[[articles]]
+title = "自分を棚卸す"
+Published = true
+published_at = "2024-5-10"
+slug = "inventory-myself"
+tags = ["ポエム"]
+updated_at = "2024-5-10- 22:17"
+cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
+
+[[articles]]
+title = "Cannot set LC_XXX to default locale: No such file or directoryを解決する"
+published_at = "2023-10-6"
+published = true
+slug = "fix-vim-lc"
+tags = ["vim"]
+updated_at = "2024-5-2- 17:28"
+cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
+
+[[articles]]
+title = "2023年を振り返る"
+published_at = "2023-9-4"
+published = true
+slug = "look-back-on-2023"
+tags = ["ポエム"]
+updated_at = "2024-5-2"
+cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
+
+[[articles]]
+title = "ビジュアルシンカー脳のゆる言語学ラジオを聞いた"
+published_at = "2024-4-22"
+published = true
+slug = "visual-thinker"
+tags = ["ポエム"]
+updated_at = "2024-4-26"
+cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
+
+[[articles]]
+title = "育休を半年間取りました"
+published_at = "2024-3-13"
+published = true
+slug = "paternity-leave"
+tags = ["ポエム"]
+updated_at = "2024-5-2"
+cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
+
+[[articles]]
+title = "Arc Browserのboostでkintone JS APIを無理やり扱う"
+published_at = "2023-8-4"
+true
+how-to-use-object-in-arc-boost
+Arc
+2023-8-16- 10:28
+cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
+
+[[articles]]
+title = "USキーボードでかな入力時の配列をmacとwinで揃える方法"
+published_at = "2023-4-13"
+published = true
+slug = "share-us-keyboard-using-kana"
+tags = ["keyboard", "論理配列"]
+updated_at = "2023-4-17""
+cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
+
+[[articles]]
+title = "Vivaldiの救出方法"
+published_at = "2023-3-6"
+published = true
+slug = "fix-vivaldi-brawser"
+tags = ["Vivaldi"]
+updated_at = "2023-4-16"
+cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
+
+[[articles]]
+title = "HHKBからMoonlanderに乗り換えた"
+published_at = "2023-3-3"
+published = true
+slug = "introduce-moonlander"
+tags = ["Moonlander", "keyboard", "開発環境"]
+updated_at = "2023-3-7"
+cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
+
+[[articles]]
+title = "iPadだけでプログラミング環境を整えた話[VPS+Coder]"
+published_at = "2021-7-2"
+published = true
+slug = "programming-with-coder"
+tags = ["iPad", "開発環境"]
+updated_at = "2023-2-14"
+cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
+
+[[articles]]
+title = "codespacesでastroを使うときは開発環境の立ち上げに—hostをつけよう"
+published_at = "2023-2-13"
+published = true
+slug = "astro-host-in-codespaces"
+tags = ["Astro", "Codespaces"]
+updated_at = "2023-2-13"
+cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
+
+[[articles]]
+title = "NotionWebClipperで保存した記事をブログに公開した"
+published_at = "2023-2-8"
+published = true
+slug = "publish-my-links"
+tags = ["Notion", "個人開発"]
+updated_at = "2023-2-12"
+cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
+
+[[articles]]
+title = "tsでtypeを&で繋ぐとnever型になってしまった話"
+published_at = "2023-1-9"
+published = true
+slug = "ts-type-param-cannot-override"
+tags = ["TypeScript", "個人開発"]
+updated_at = "2023-1-13"
+cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
+
+[[articles]]
+title = "アソシエーション分析ができるAPIの話"
+published_at = "2023-1-27"
+published = true
+slug = "create-association-analysis-api"
+tags = ["Aws", "Python", "個人開発"]
+updated_at = "2023-8-29"
+cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
+
+[[articles]]
+title = "Next.js製のブログの内部構成を更改した"
+published_at = "2023-1-11"
+published = true
+slug = "upgrade-directory-structure"
+tags = ["Nextjs", "Notion", "個人開発"]
+updated_at = "2023-1-31"
+cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
+
+[[articles]]
+title = "2023年の抱負"
+published_at = "2023-1-1"
+published = true
+slug = "resolution-2023"
+tags = ["ポエム"]
+updated_at = "2023-1-11"
+cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
+
+[[articles]]
+title = "2022年を振り返る"
+published_at = "2022-12-29"
+published = true
+slug = "look-back-on-2022"
+tags = ["ポエム"]
+updated_at = "2023-1-11"
+cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
+
+[[articles]]
+title = "iPadでプログラミング開発環境構築の努力と2023-個人的ベストプラクティス[Blink+VSCode+Codespaces]"
+published_at = "2022-12-19"
+published = true
+slug = "coding-with-ipad"
+tags = ["Blink", "Codespaces", "VSCode", "iPad", "開発環境"]
+updated_at = "2023-2-14"
+cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
+
+[[articles]]
+title = "sudo権限でリダイレクト処理を行ってファイルに書き込む方法"
+published_at = "2022-12-13"
+published = true
+Slug = "redirect-with-sudo"
+tags = ["Shell"]
+updated_at = "2022-12-13"
+cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
+
+[[articles]]
+title = "よく使う開発環境構成を１コマンドで作成できるようにした"
+published_at = "2022-12-12"
+published = true
+slug = "setup-develop-environment"
+tags = ["Docker", "個人開発"]
+updated_at = "2022-12-12"
+cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
+
+[[articles]]
+title = "PythonでDIを実装する"
+published_at = "2022-11-28"
+published = true
+slug = "di-with-python"
+tags = ["DI", "Python"]
+updated_at = "2022-12-1"
+cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
+
+[[articles]]
+title = "便利なGitコマンド覚書"
+published_at = "2022-11-12"
+published = true
+slug = "useful-git-command"
+tags = ["git"]
+updated_at = "2023-2-28"
+cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
+
+[[articles]]
+title = "Reactのレンダリング順について"
+published_at = "2022-5-26"
+published = true
+slug = "react-rendering-sequence"
+tags = ["React"]
+updated_at = "2023-2-13"
+cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
+
+[[articles]]
+title = "Google Drive内の画像に直接アクセスできるURLの作成方法"
+slug = "google-drive-url-directly"
+tags = "GoogleDrive"
+published = true
+published_at = "2022-5-12"
+updated_at = "2022-12-12"
+cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
+
+[[articles]]
+title = "片道2時間半超えの超長距離通勤を１年半頑張ってた時の話"
+slug = "long-distance-commutation"
+tags = ["Work-Life Balance", "ポエム"]
+published = true
+published_at = "2021-7-2"
+updated_at = "2023-1-1"
+cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
+
+[[articles]]
+title = "URIライクな文字列で改行してくれないときのcssの充て方"
+slug = "new-line-css-for-uri-like-string"
+tags = ["CSS", "HTML", "個人開発"]
+published = true
+published_at = "2022-3-29"
+updated_at = "2023-3-7"
+cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
+
+[[articles]]
+title = "dyld: Library not loaded: /usr/local/opt/icu4c/lib/libicudata.69.dylib で動かなくなったmacのPHPを救出した"
+slug = "library-icu4c-not-found"
+tags = ["Mac", "PHP"]
+published = true
+published_at = "2022-3-28"
+updated_at = "2022-12-12"
+cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
+
+[[articles]]
+tltle = "notion API + NEXT.js + netlify でブログ立ち上げ ⑦ 動的OGP"
+slug = "build-blog-using-notion-api-7"
+tags = ["Netlify", "Nextjs", "Notion", "個人開発"]
+published = true
+published_at = "2022-3-15"
+updated_at = "2024-5-2"
+cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
+
+[[articles]]
+title = "notion API + NEXT.js + netlify でブログ立ち上げ ⑥ SEO関連の設定"
+slug = "build-blog-using-notion-api-6"
+tags = ["Netlify", "Nextjs", "Notion", "個人開発"]
+published = true
+published_at = "2022-3-11"
+updated_at = "2024-5-2"
+cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
+
+[[articles]]
+title = "notion API + NEXT.js + netlify でブログ立ち上げ ⑤ 画面作成"
+slug = "build-blog-using-notion-api-5"
+tags = ["Netlify", "Nextjs", "Notion", "個人開発"]
+published = true
+published_at = "2022-2-13"
+updated_at = "2024-5-2"
+cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
+
+[[articles]]
+title = "notion API + NEXT.js + netlify でブログ立ち上げ ④ ChakraUIのお勉強"
+slug = "build-blog-using-notion-api-4"
+tags = ["ChakraUI", "Netlify", "Nextjs", "Notion", "個人開発"]
+published = true
+published_at = "2022-2-13"
+updated_at = "2024-5-2"
+cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
+
+[[articles]]
+title = "DockerImageのComposerを利用して突如エラーが出るようになった"
+slug = "error-in-composer-docker-image"
+tags = ["Composer", "Docker", "PHP"]
+published = true
+published_at = "2022-3-28"
+updated_at = "2023-1-1"
+cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
+
+[[articles]]
+title = "notion API + NEXT.js + netlify でブログ立ち上げ ③  NEXT.jsのお勉強"
+slug = "build-blog-using-notion-api-3"
+tags = ["Netlify", "Nextjs", "Notion", "個人開発"]
+published = true
+published_at = "2022-3-20"
+updated_at = "2022-12-12"
+cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
+
+[[articles]]
+title = "書籍[融けるデザイン]から学んだこと"
+slug = "what-to-learn-by-reading-natural-design"
+tags = ["Book", "Design", "Learning"]
+published = true
+published_at = "2022-3-18"
+updated_at = "2022-12-12"
+cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
+
+[[articles]]
+title = "書籍 [ドメイン駆動設計入門] から学んだこと"
+slug = "what-to-learn-by-reading-ddd"
+tags = ["Book", "DDD", "Learning"]
+published = true
+published_at = "2022-3-18"
+updated_at = "2022-12-12"
+cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
+
+[[articles]]
+title = "書籍[リーダブルコード] から学んだこと"
+slug = "what-to-learn-by-reading-readable-code"
+tags = ["Book", "Learning"]
+published = true
+published_at = "2022-3-18"
+updated_at = "2022-12-12"
+cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
+
+[[articles]]
+title = "notion API + NEXT.js + netlify でブログ立ち上げ ② notion api確認"
+islug = "build-blog-using-notion-api-2"
+tags = ["Netlify", "Nextjs", "Notion", "個人開発"]
+published = true
+published_at = "2022-1-18"
+updated_at = "2022-12-12"
+cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
+
+[[articles]]
+title = "notion API + NEXT.js + netlify でブログ立ち上げ ①"
+slug = "build-blog-using-notion-api-1"
+tags = ["Netlify", "Nextjs", "Notion", "個人開発"]
+published = true
+published_at = "2022-1-18"
+updated_at = "2022-12-12"
+cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
+
+[[articles]]
+title = "ブログ作りました👋"
+slug = "hello-world"
+tags = ["ポエム"]
+published = true
+published_at = "2022-3-20"
+updated_at = "2023-1-11"
+cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
+
+[[articles]]
+title = "_typography"
+slug = "typography"
 cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
 tags = ["個人開発"]
 published = true
+published_at = "2022-2-11"
+updated_at = "2024-5-30"
+
