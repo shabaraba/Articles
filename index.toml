@@ -173,7 +173,7 @@ cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1
 title = "sudo権限でリダイレクト処理を行ってファイルに書き込む方法"
 published_at = "2022-12-13"
 published = true
-Slug = "redirect-with-sudo"
+slug = "redirect-with-sudo"
 tags = ["Shell"]
 updated_at = "2022-12-13"
 cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
@@ -251,7 +251,7 @@ updated_at = "2022-12-12"
 cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
 
 [[articles]]
-tltle = "notion API + NEXT.js + netlify でブログ立ち上げ ⑦ 動的OGP"
+title = "notion API + NEXT.js + netlify でブログ立ち上げ ⑦ 動的OGP"
 slug = "build-blog-using-notion-api-7"
 tags = ["Netlify", "Nextjs", "Notion", "個人開発"]
 published = true
@@ -333,7 +333,7 @@ cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1
 
 [[articles]]
 title = "notion API + NEXT.js + netlify でブログ立ち上げ ② notion api確認"
-islug = "build-blog-using-notion-api-2"
+slug = "build-blog-using-notion-api-2"
 tags = ["Netlify", "Nextjs", "Notion", "個人開発"]
 published = true
 published_at = "2022-1-18"
