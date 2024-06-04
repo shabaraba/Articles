@@ -9,7 +9,7 @@ cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1
 
 [[articles]]
 title = "自分を棚卸す"
-Published = true
+published = true
 published_at = "2024-5-10"
 slug = "inventory-myself"
 tags = ["ポエム"]
@@ -55,10 +55,10 @@ cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1
 [[articles]]
 title = "Arc Browserのboostでkintone JS APIを無理やり扱う"
 published_at = "2023-8-4"
-true
-how-to-use-object-in-arc-boost
-Arc
-2023-8-16- 10:28
+published = true
+slug = "how-to-use-object-in-arc-boost"
+tags = ["Arc"]
+updated_at = "2023-8-16"
 cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
 
 [[articles]]
@@ -67,7 +67,7 @@ published_at = "2023-4-13"
 published = true
 slug = "share-us-keyboard-using-kana"
 tags = ["keyboard", "論理配列"]
-updated_at = "2023-4-17""
+updated_at = "2023-4-17"
 cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000"
 
 [[articles]]
@@ -217,7 +217,7 @@ cover = "https://images.unsplash.com/photo-1511548774318-563182fe8d03?ixlib=rb-1
 [[articles]]
 title = "Google Drive内の画像に直接アクセスできるURLの作成方法"
 slug = "google-drive-url-directly"
-tags = "GoogleDrive"
+tags = ["GoogleDrive"]
 published = true
 published_at = "2022-5-12"
 updated_at = "2022-12-12"
