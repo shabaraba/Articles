@@ -1,14 +1,12 @@
----
+# _typography
+
 Created: 2022年2月11日 11:42
-Updated: 2023年1月11日 21:39
+Updated: 2024年5月30日 13:10
 Published_Time: 2021年10月1日
 Slug: typography
 Tags: Notion, 個人開発
 Published: Yes
 URL: https://blog.shaba.dev/posts/typography
----
-
-# _typography
 
 Notiongraphyを更新したときの確認用ページです。
 
@@ -95,6 +93,6 @@ function jsfunc() {}
 
 ### image
 
-![caption!](_typography%20e2b7317bfb9d4171b1c07691d39e98c2/January-2022-Calendar-Desktop-Wallpaper.jpeg)
+![caption!](January-2022-Calendar-Desktop-Wallpaper.jpeg)
 
 caption!

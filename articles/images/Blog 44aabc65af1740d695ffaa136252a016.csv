@@ -1,0 +1,56 @@
+﻿Name,Created,Published,Published_Time,Slug,Tags,URL,Updated
+トランプのカードはEntityかValueObjectか,2024年5月20日 1:34,Yes,2024年5月20日,entity-vs-value-object,Design,https://blog.shaba.dev/posts/entity-vs-value-object,2024年5月20日 2:15
+自分を棚卸す,2024年5月10日 9:44,Yes,2024年5月10日,inventory-myself,ポエム,https://blog.shaba.dev/posts/inventory-myself,2024年5月10日 22:17
+Cannot set LC_XXX to default locale: No such file or directoryを解決する,2023年10月6日 14:59,Yes,2024年5月1日,fix-vim-lc,vim,https://blog.shaba.dev/posts/fix-vim-lc,2024年5月2日 17:28
+2023年を振り返る,2023年9月4日 10:04,Yes,2024年4月25日,look-back-on-2023,ポエム,https://blog.shaba.dev/posts/look-back-on-2023,2024年5月2日 17:24
+ビジュアルシンカー脳のゆる言語学ラジオを聞いた,2024年4月22日 9:19,Yes,2024年4月22日,visual-thinker,ポエム,https://blog.shaba.dev/posts/visual-thinker,2024年4月26日 8:15
+育休を半年間取りました,2024年3月13日 1:23,Yes,2024年4月4日,paternity-leave,ポエム,https://blog.shaba.dev/posts/paternity-leave,2024年5月2日 16:47
+Arc Browserのboostでkintone JS APIを無理やり扱う,2023年8月4日 13:17,Yes,2023年8月16日,how-to-use-object-in-arc-boost,Arc,https://blog.shaba.dev/posts/how-to-use-object-in-arc-boost,2023年8月16日 10:28
+USキーボードでかな入力時の配列をmacとwinで揃える方法,2023年4月13日 8:46,Yes,2023年4月17日,share-us-keyboard-using-kana,"keyboard, 論理配列",https://blog.shaba.dev/posts/share-us-keyboard-using-kana,2023年4月17日 10:50
+Vivaldiの救出方法,2023年3月6日 12:23,Yes,2023年4月16日,fix-vivaldi-brawser,Vivaldi,https://blog.shaba.dev/posts/fix-vivaldi-brawser,2023年4月16日 1:37
+HHKBからMoonlanderに乗り換えた,2023年3月3日 17:43,Yes,2023年3月7日,introduce-moonlander,"Moonlander, keyboard, 開発環境",https://blog.shaba.dev/posts/introduce-moonlander,2023年3月7日 14:09
+iPadだけでプログラミング環境を整えた話[VPS+Coder],2021年7月2日 14:26,Yes,2023年2月14日,programming-with-coder,"iPad, 開発環境",https://blog.shaba.dev/posts/programming-with-coder,2023年2月14日 8:46
+codespacesでastroを使うときは開発環境の立ち上げに—hostをつけよう,2023年2月13日 8:46,Yes,2023年2月13日,astro-host-in-codespaces,"Astro, Codespaces",https://blog.shaba.dev/posts/astro-host-in-codespaces,2023年2月13日 21:58
+NotionWebClipperで保存した記事をブログに公開した,2023年2月8日 14:42,Yes,2023年2月12日,publish-my-links,"Notion, 個人開発",https://blog.shaba.dev/posts/publish-my-links,2023年2月12日 14:17
+tsでtypeを&で繋ぐとnever型になってしまった話,2023年1月9日 20:09,Yes,2023年1月31日,ts-type-param-cannot-override,"TypeScript, 個人開発",https://blog.shaba.dev/posts/ts-type-param-cannot-override,2023年1月13日 9:54
+アソシエーション分析ができるAPIの話,2023年1月27日 16:16,Yes,2023年1月29日,create-association-analysis-api,"Aws, Python, 個人開発",https://blog.shaba.dev/posts/create-association-analysis-api,2023年8月29日 14:51
+Next.js製のブログの内部構成を更改した,2023年1月11日 17:20,Yes,2023年1月12日,upgrade-directory-structure,"Nextjs, Notion, 個人開発",https://blog.shaba.dev/posts/upgrade-directory-structure,2023年1月31日 0:01
+2023年の抱負,2023年1月1日 13:44,Yes,2023年1月1日,resolution-2023,ポエム,https://blog.shaba.dev/posts/resolution-2023,2023年1月11日 21:38
+2022年を振り返る,2022年12月29日 20:26,Yes,2022年12月31日,look-back-on-2022,ポエム,https://blog.shaba.dev/posts/look-back-on-2022,2023年1月11日 21:39
+iPadでプログラミング開発環境構築の努力と2023年個人的ベストプラクティス[Blink+VSCode+Codespaces],2022年12月19日 8:50,Yes,2022年12月19日,coding-with-ipad,"Blink, Codespaces, VSCode, iPad, 開発環境",https://blog.shaba.dev/posts/coding-with-ipad,2023年2月14日 9:10
+sudo権限でリダイレクト処理を行ってファイルに書き込む方法,2022年12月13日 9:35,Yes,2022年12月13日,redirect-with-sudo,Shell,https://blog.shaba.dev/posts/redirect-with-sudo,2022年12月13日 9:52
+よく使う開発環境構成を１コマンドで作成できるようにした,2022年12月12日 12:38,Yes,2022年12月12日,setup-develop-environment,"Docker, 個人開発",https://blog.shaba.dev/posts/setup-develop-environment,2022年12月12日 17:11
+PythonでDIを実装する,2022年11月28日 17:02,Yes,2022年11月28日,di-with-python,"DI, Python",https://blog.shaba.dev/posts/di-with-python,2022年12月1日 8:46
+便利なGitコマンド覚書,2022年11月12日 20:22,Yes,2022年11月14日,useful-git-command,git,https://blog.shaba.dev/posts/useful-git-command,2023年2月28日 9:40
+Reactのレンダリング順について,2022年5月26日 10:00,Yes,2022年5月26日,react-rendering-sequence,React,https://blog.shaba.dev/posts/react-rendering-sequence,2023年2月13日 9:19
+Google Drive内の画像に直接アクセスできるURLの作成方法,2022年5月12日 9:43,Yes,2022年5月13日,google-drive-url-directly,GoogleDrive,https://blog.shaba.dev/posts/google-drive-url-directly,2022年12月12日 13:28
+片道2時間半超えの超長距離通勤を１年半頑張ってた時の話,2021年7月2日 14:22,Yes,2022年4月2日,long-distance-commutation,"Work-Life Balance, ポエム",https://blog.shaba.dev/posts/long-distance-commutation,2023年1月1日 13:43
+URIライクな文字列で改行してくれないときのcssの充て方,2022年3月29日 1:45,Yes,2022年3月30日,new-line-css-for-uri-like-string,"CSS, HTML, 個人開発",https://blog.shaba.dev/posts/new-line-css-for-uri-like-string,2023年3月7日 13:11
+dyld: Library not loaded: /usr/local/opt/icu4c/lib/libicudata.69.dylib で動かなくなったmacのPHPを救出した,2022年3月28日 21:39,Yes,2022年3月29日,library-icu4c-not-found,"Mac, PHP",https://blog.shaba.dev/posts/library-icu4c-not-found,2022年12月12日 13:28
+notion API + NEXT.js + netlify でブログ立ち上げ ⑦ 動的OGP,2022年3月15日 13:55,Yes,2022年3月29日,build-blog-using-notion-api-7,"Netlify, Nextjs, Notion, 個人開発",https://blog.shaba.dev/posts/build-blog-using-notion-api-7,2024年5月2日 21:19
+notion API + NEXT.js + netlify でブログ立ち上げ ⑥ SEO関連の設定,2022年3月11日 0:35,Yes,2022年3月28日,build-blog-using-notion-api-6,"Netlify, Nextjs, Notion, 個人開発",https://blog.shaba.dev/posts/build-blog-using-notion-api-6,2024年5月2日 21:27
+notion API + NEXT.js + netlify でブログ立ち上げ ⑤ 画面作成,2022年2月13日 7:23,Yes,2022年3月27日,build-blog-using-notion-api-5,"Netlify, Nextjs, Notion, 個人開発",https://blog.shaba.dev/posts/build-blog-using-notion-api-5,2024年5月2日 21:19
+notion API + NEXT.js + netlify でブログ立ち上げ ④ ChakraUIのお勉強,2022年2月13日 7:21,Yes,2022年3月26日,build-blog-using-notion-api-4,"ChakraUI, Netlify, Nextjs, Notion, 個人開発",https://blog.shaba.dev/posts/build-blog-using-notion-api-4,2024年5月2日 21:19
+DockerImageのComposerを利用して突如エラーが出るようになった,2022年3月28日 8:53,Yes,2022年3月24日,error-in-composer-docker-image,"Composer, Docker, PHP",https://blog.shaba.dev/posts/error-in-composer-docker-image,2023年1月1日 14:05
+notion API + NEXT.js + netlify でブログ立ち上げ ③  NEXT.jsのお勉強,2022年3月20日 0:52,Yes,2022年3月19日 0:00 (JST),build-blog-using-notion-api-3,"Netlify, Nextjs, Notion, 個人開発",https://blog.shaba.dev/posts/build-blog-using-notion-api-3,2022年12月12日 13:29
+https://break-point.hatenablog.com/entry/natural-design,2022年3月18日 23:44,Yes,2022年3月15日,what-to-learn-by-reading-natural-design,"Book, Design, Learning",https://blog.shaba.dev/posts/what-to-learn-by-reading-natural-design,2022年12月12日 13:29
+https://break-point.hatenablog.com/entry/drain-driven-design,2022年3月18日 23:41,Yes,2022年3月11日,what-to-learn-by-reading-ddd,"Book, DDD, Learning",https://blog.shaba.dev/posts/what-to-learn-by-reading-ddd,2022年12月12日 13:29
+https://break-point.hatenablog.com/entry/readable-code,2022年3月18日 23:37,Yes,2022年3月9日,what-to-learn-by-reading-readable-code,"Book, Learning",https://blog.shaba.dev/posts/what-to-learn-by-reading-readable-code,2022年12月12日 13:29
+notion API + NEXT.js + netlify でブログ立ち上げ ② notion api確認,2022年1月18日 19:09,Yes,2022年3月4日,build-blog-using-notion-api-2,"Netlify, Nextjs, Notion, 個人開発",https://blog.shaba.dev/posts/build-blog-using-notion-api-2,2022年12月12日 13:29
+notion API + NEXT.js + netlify でブログ立ち上げ ①,2022年1月18日 19:09,Yes,2022年3月1日,build-blog-using-notion-api-1,"Netlify, Nextjs, Notion, 個人開発",https://blog.shaba.dev/posts/build-blog-using-notion-api-1,2022年12月12日 13:29
+ブログ作りました👋,2022年3月20日 8:51,Yes,2022年2月28日,hello-world,ポエム,https://blog.shaba.dev/posts/hello-world,2023年1月11日 22:41
+_typography,2022年2月11日 11:42,Yes,2021年10月1日,typography,"Notion, 個人開発",https://blog.shaba.dev/posts/typography,2024年5月30日 13:10
+dotfilesの構成を更改した,2024年5月29日 17:12,No,,update-dotfiles,個人開発,https://blog.shaba.dev/posts/update-dotfiles,2024年5月29日 22:10
+書籍[限りある時間の使い方]読んだ,2024年4月10日 15:42,No,,what-to-learn-by-reading-four-thousand-weeks,,https://blog.shaba.dev/posts/what-to-learn-by-reading-four-thousand-weeks,2024年4月10日 15:54
+ゴールドでのボリンジャーバンドの扱い方,2023年10月28日 0:30,No,,,,https://blog.shaba.dev/posts/,2023年10月28日 0:54
+非ITの妻が基本情報技術者試験に合格した話,2023年9月4日 9:59,No,,,,https://blog.shaba.dev/posts/,2023年9月4日 10:03
+チームトポロジーを読んだ,2023年8月29日 8:47,No,,,Book,https://blog.shaba.dev/posts/,2023年9月8日 9:15
+この世に沼は3つある。開発環境、キーボード、そしてキー配列だ。,2023年4月3日 18:46,No,,,,https://blog.shaba.dev/posts/,2023年4月3日 18:46
+人生の転換点は大学のサークル選びと一回目の転職だったと思う,2023年3月14日 20:04,No,,,,https://blog.shaba.dev/posts/,2023年3月14日 20:09
+cli-kintoneが面白い,2023年2月16日 17:27,No,,introduce-cli-kintone,"Shell, cli-kintone",https://blog.shaba.dev/posts/introduce-cli-kintone,2023年2月21日 15:49
+溢れかえる端子を1本化できるこの充電ケーブルが便利,2023年2月12日 14:05,No,,recommendation-product-magnet-cable,,https://blog.shaba.dev/posts/recommendation-product-magnet-cable,2023年2月12日 14:17
+わいわいの4文字に救われる話,2023年2月9日 21:15,No,,,,https://blog.shaba.dev/posts/,2023年8月29日 8:47
+20代を振り返って,2022年12月12日 0:15,No,,looklook-back-on-20s,ポエム,https://blog.shaba.dev/posts/looklook-back-on-20s,2023年1月17日 20:34
+ChakraUIの,2022年4月6日 0:21,No,,,,https://blog.shaba.dev/posts/,2022年12月12日 0:21
+メーカー開発とWEB開発の一番の違い,2022年4月3日 9:52,No,,,,https://blog.shaba.dev/posts/,2022年4月3日 10:18
+今後のために自分のエンジニアとしての姿勢を振り返る,2022年3月27日 23:22,No,,thinking-my-career,ポエム,https://blog.shaba.dev/posts/thinking-my-career,2023年1月17日 20:58
