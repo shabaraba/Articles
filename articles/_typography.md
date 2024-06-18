@@ -30,6 +30,8 @@ underline
 
 ~~dispose~~
 
+**bold and `code` and *italic***
+
 color
 
 background color
